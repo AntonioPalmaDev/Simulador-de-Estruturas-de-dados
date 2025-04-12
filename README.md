@@ -31,12 +31,6 @@ Este projeto é um simulador interativo das principais estruturas de dados: **Fi
 
 ---
 
-## 🖼️ Demonstração
-
-> Em construção! (Você pode colocar aqui prints ou um link para uma página GitHub Pages)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
